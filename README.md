@@ -1,3 +1,7 @@
+# Hi
+
+It's a todo app in clojurescript! woohoo
+
 
 ### Development mode
 ```
