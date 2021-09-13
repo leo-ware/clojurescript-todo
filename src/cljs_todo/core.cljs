@@ -1,6 +1,5 @@
 (ns cljs-todo.core
   (:require
-   [reagent.core :as r]
    [reagent.dom :as d]
    [cljs-todo.app :as app]))
 
